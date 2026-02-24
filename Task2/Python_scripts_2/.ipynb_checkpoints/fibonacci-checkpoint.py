@@ -4,11 +4,11 @@
 # In[ ]:
 
 
-k = 0 #Starting the loop
-n1 = 0 # Number 1
-n2 = 1 #Number 2
-seq = [0,1] #Starting the list
-while k < 99: #
+k = 0
+n1 = 0
+n2 = 1
+seq = [0,1]
+while k < 99:
     n3 = n1 + n2
     n1 = n2
     n2 = n3
